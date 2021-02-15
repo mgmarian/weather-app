@@ -1,0 +1,8 @@
+componentes::
+
+- semanal container
+- tarjeta para dia
+- busqueda -> form
+- form container
+- dia completo
+

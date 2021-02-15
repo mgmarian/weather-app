@@ -1,0 +1,172 @@
+{
+    "Headline": {
+      "EffectiveDate": "2021-02-19T19:00:00-03:00",
+      "EffectiveEpochDate": 1613772000,
+      "Severity": 5,
+      "Text": "Expect showers Friday night",
+      "Category": "rain",
+      "EndDate": "2021-02-20T07:00:00-03:00",
+      "EndEpochDate": 1613815200,
+      "MobileLink": "http://m.accuweather.com/en/ar/buenos-aires/7894/extended-weather-forecast/7894?unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?unit=c&lang=en-us"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2021-02-15T07:00:00-03:00",
+        "EpochDate": 1613383200,
+        "Temperature": {
+          "Minimum": {
+            "Value": 17.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 27.8,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 3,
+          "IconPhrase": "Partly sunny",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=1&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=1&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2021-02-16T07:00:00-03:00",
+        "EpochDate": 1613469600,
+        "Temperature": {
+          "Minimum": {
+            "Value": 16.7,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 25.6,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 6,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=2&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=2&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2021-02-17T07:00:00-03:00",
+        "EpochDate": 1613556000,
+        "Temperature": {
+          "Minimum": {
+            "Value": 19.4,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 27.2,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 1,
+          "IconPhrase": "Sunny",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 33,
+          "IconPhrase": "Clear",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=3&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=3&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2021-02-18T07:00:00-03:00",
+        "EpochDate": 1613642400,
+        "Temperature": {
+          "Minimum": {
+            "Value": 22.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 30.8,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 2,
+          "IconPhrase": "Mostly sunny",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=4&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=4&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2021-02-19T07:00:00-03:00",
+        "EpochDate": 1613728800,
+        "Temperature": {
+          "Minimum": {
+            "Value": 18.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 29.3,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 4,
+          "IconPhrase": "Intermittent clouds",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=5&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ar/buenos-aires/7894/daily-weather-forecast/7894?day=5&unit=c&lang=en-us"
+      }
+    ]
+  }
